@@ -7,7 +7,7 @@ public class Employee
     public Guid DepartmentId { get; set; }
     public DateTime JoinedDate { get; set; }
 
-    public Department? Department { get; set; }
+    public required Department Department { get; set; }
     public Salary? Salary { get; set; }
-    public ICollection<ProjectEmployee>? ProjectEmployees { get; set; }
+    public ICollection<ProjectEmployee> ProjectEmployees { get; set; } = new List<ProjectEmployee>();
 }

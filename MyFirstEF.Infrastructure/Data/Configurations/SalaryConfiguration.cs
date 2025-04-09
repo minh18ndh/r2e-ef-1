@@ -12,6 +12,6 @@ public class SalaryConfiguration : IEntityTypeConfiguration<Salary>
 
         builder.Property(s => s.Amount)
                .IsRequired()
-               .HasColumnType("decimal(18,2)");
+               .HasColumnType("decimal(14,2)");
     }
 }

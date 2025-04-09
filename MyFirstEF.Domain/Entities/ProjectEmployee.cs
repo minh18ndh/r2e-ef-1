@@ -6,6 +6,6 @@ public class ProjectEmployee
     public Guid EmployeeId { get; set; }
     public bool Enable { get; set; }
 
-    public Project? Project { get; set; }
-    public Employee? Employee { get; set; }
+    public required Project Project { get; set; }
+    public required Employee Employee { get; set; }
 }

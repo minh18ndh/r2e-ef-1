@@ -6,5 +6,5 @@ public class Department
     public required string Name { get; set; }
 
     // Navigation
-    public ICollection<Employee>? Employees { get; set; }
+    public ICollection<Employee> Employees { get; set; } = new List<Employee>();
 }
