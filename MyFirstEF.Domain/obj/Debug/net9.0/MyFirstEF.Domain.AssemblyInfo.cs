@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyFirstEF.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a05a6083cc2da0711bc7b135d30ffe97f0a884b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyFirstEF.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyFirstEF.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

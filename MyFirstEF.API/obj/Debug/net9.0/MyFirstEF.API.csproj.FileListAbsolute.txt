@@ -170,3 +170,4 @@ C:\Users\minhn\Downloads\MyFirstEF\MyFirstEF.API\obj\Debug\net9.0\refint\MyFirst
 C:\Users\minhn\Downloads\MyFirstEF\MyFirstEF.API\obj\Debug\net9.0\MyFirstEF.API.pdb
 C:\Users\minhn\Downloads\MyFirstEF\MyFirstEF.API\obj\Debug\net9.0\MyFirstEF.API.genruntimeconfig.cache
 C:\Users\minhn\Downloads\MyFirstEF\MyFirstEF.API\obj\Debug\net9.0\ref\MyFirstEF.API.dll
+C:\Users\minhn\Downloads\MyFirstEF\MyFirstEF.API\obj\Debug\net9.0\MyFirstEF.API.sourcelink.json

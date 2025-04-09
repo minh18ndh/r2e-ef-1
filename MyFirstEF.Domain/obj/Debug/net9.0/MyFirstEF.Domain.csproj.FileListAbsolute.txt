@@ -9,3 +9,4 @@ C:\Users\minhn\Downloads\MyFirstEF\MyFirstEF.Domain\obj\Debug\net9.0\MyFirstEF.D
 C:\Users\minhn\Downloads\MyFirstEF\MyFirstEF.Domain\obj\Debug\net9.0\refint\MyFirstEF.Domain.dll
 C:\Users\minhn\Downloads\MyFirstEF\MyFirstEF.Domain\obj\Debug\net9.0\MyFirstEF.Domain.pdb
 C:\Users\minhn\Downloads\MyFirstEF\MyFirstEF.Domain\obj\Debug\net9.0\ref\MyFirstEF.Domain.dll
+C:\Users\minhn\Downloads\MyFirstEF\MyFirstEF.Domain\obj\Debug\net9.0\MyFirstEF.Domain.sourcelink.json
